@@ -1,0 +1,933 @@
+2025-11-05 11:26:29,681 - FR-INIT: Inizializzazione con RESIZE_VALUE=4, UNKNOWN_FACE_THRESHOLD=10
+2025-11-05 11:26:29,682 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:26:29,965 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:26:29,980 - FR-SERVER: Server avviato e connesso a IPC.
+2025-11-05 11:27:50,212 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:27:50,212 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:27:50,434 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:27:53,823 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:54,347 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:54,426 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:27:54,524 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:27:54,537 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 89.47% (Distanza: 0.515)
+2025-11-05 11:27:55,051 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:55,096 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:27:55,226 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:27:55,226 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.38% (Distanza: 0.432)
+2025-11-05 11:27:55,690 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:55,707 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:27:55,982 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:27:55,983 - FR-ACCURACY-UNKNOWN: Nuova faccia 0 (potenzialmente sconosciuta) rilevata.
+2025-11-05 11:27:56,441 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:56,491 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:27:57,079 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:27:57,080 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.72% (Distanza: 0.401)
+2025-11-05 11:27:57,255 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:57,302 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:27:57,504 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:27:57,516 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 90.05% (Distanza: 0.510)
+2025-11-05 11:27:57,645 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:57,683 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:27:57,765 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:27:57,766 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 88.63% (Distanza: 0.523)
+2025-11-05 11:27:58,250 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:58,299 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:27:58,647 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:27:58,647 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.76% (Distanza: 0.444)
+2025-11-05 11:27:58,840 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:58,868 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:27:59,138 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:27:59,138 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.63% (Distanza: 0.404)
+2025-11-05 11:27:59,321 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:27:59,358 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:27:59,503 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:27:59,504 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 90.94% (Distanza: 0.500)
+2025-11-05 11:28:00,052 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:00,102 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:00,287 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:00,288 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.54% (Distanza: 0.406)
+2025-11-05 11:28:00,767 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:00,783 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:01,042 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:01,043 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.16% (Distanza: 0.471)
+2025-11-05 11:28:01,590 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:01,638 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:01,964 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:01,965 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.61% (Distanza: 0.375)
+2025-11-05 11:28:02,102 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:02,117 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:02,389 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:02,389 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.2% (Distanza: 0.454)
+2025-11-05 11:28:02,892 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:02,925 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:03,124 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:03,125 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.38% (Distanza: 0.410)
+2025-11-05 11:28:03,323 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:03,392 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:04,098 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:04,098 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.88% (Distanza: 0.421)
+2025-11-05 11:28:04,337 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:04,427 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:04,904 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:04,904 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.72% (Distanza: 0.425)
+2025-11-05 11:28:05,183 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:05,221 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:05,924 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:05,925 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.18% (Distanza: 0.389)
+2025-11-05 11:28:06,075 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:06,107 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:06,471 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:06,472 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.43% (Distanza: 0.431)
+2025-11-05 11:28:06,584 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:06,640 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:07,039 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:07,040 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 87.01% (Distanza: 0.537)
+2025-11-05 11:28:07,312 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:07,359 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:07,544 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:07,545 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 90.63% (Distanza: 0.503)
+2025-11-05 11:28:07,742 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:07,787 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:08,626 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:08,627 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.55% (Distanza: 0.428)
+2025-11-05 11:28:08,892 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:08,956 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:10,189 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:10,190 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.77% (Distanza: 0.444)
+2025-11-05 11:28:10,422 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:10,503 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:11,123 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:11,124 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.83% (Distanza: 0.489)
+2025-11-05 11:28:11,297 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:11,378 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:11,700 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:11,700 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.26% (Distanza: 0.453)
+2025-11-05 11:28:19,432 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:28:19,443 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:28:19,596 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:28:21,110 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:21,781 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:21,895 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:22,285 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:22,285 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 89.97% (Distanza: 0.510)
+2025-11-05 11:28:22,461 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:22,533 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:23,174 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:23,174 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.92% (Distanza: 0.459)
+2025-11-05 11:28:23,366 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:23,504 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:23,774 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:23,774 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.03% (Distanza: 0.473)
+2025-11-05 11:28:23,994 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:24,048 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:24,744 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:24,744 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.25% (Distanza: 0.387)
+2025-11-05 11:28:24,979 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:25,048 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:25,188 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:25,189 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.66% (Distanza: 0.374)
+2025-11-05 11:28:25,412 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:25,482 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:25,778 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:25,784 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.0% (Distanza: 0.440)
+2025-11-05 11:28:25,998 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:26,088 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:26,338 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:26,338 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.39% (Distanza: 0.432)
+2025-11-05 11:28:26,530 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:26,602 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:26,784 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:26,784 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.91% (Distanza: 0.421)
+2025-11-05 11:28:27,005 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:27,090 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:27,365 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:27,365 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.28% (Distanza: 0.386)
+2025-11-05 11:28:27,511 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:27,540 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:27,845 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:27,852 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.74% (Distanza: 0.444)
+2025-11-05 11:28:28,050 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:28,092 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:28,231 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:28,232 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.13% (Distanza: 0.455)
+2025-11-05 11:28:28,564 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:28,601 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:28,795 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:28,800 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.7% (Distanza: 0.402)
+2025-11-05 11:28:29,038 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:29,090 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:29,644 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:29,654 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.8% (Distanza: 0.423)
+2025-11-05 11:28:29,845 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:29,906 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:29,987 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:29,989 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.17% (Distanza: 0.415)
+2025-11-05 11:28:30,722 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:30,796 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:31,288 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:31,288 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.58% (Distanza: 0.428)
+2025-11-05 11:28:31,536 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:31,594 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:31,871 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:31,872 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.68% (Distanza: 0.426)
+2025-11-05 11:28:32,053 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:32,118 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:32,319 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:32,320 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.69% (Distanza: 0.463)
+2025-11-05 11:28:32,498 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:32,629 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:33,108 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:33,109 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.28% (Distanza: 0.412)
+2025-11-05 11:28:33,259 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:33,374 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:33,641 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:33,641 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.37% (Distanza: 0.468)
+2025-11-05 11:28:34,072 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:34,129 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:34,656 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:34,656 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.13% (Distanza: 0.390)
+2025-11-05 11:28:34,936 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:34,987 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:35,580 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:35,580 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 90.15% (Distanza: 0.508)
+2025-11-05 11:28:35,641 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:35,702 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:35,841 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:35,841 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.48% (Distanza: 0.430)
+2025-11-05 11:28:36,507 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:36,548 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:36,813 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:36,814 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.0% (Distanza: 0.473)
+2025-11-05 11:28:37,210 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:37,267 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:37,546 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:37,547 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.92% (Distanza: 0.488)
+2025-11-05 11:28:37,687 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:37,770 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:38,160 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:38,161 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.53% (Distanza: 0.429)
+2025-11-05 11:28:38,402 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:38,475 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:38,768 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:38,768 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.99% (Distanza: 0.440)
+2025-11-05 11:28:39,004 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:39,064 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:39,902 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:39,904 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.82% (Distanza: 0.443)
+2025-11-05 11:28:40,233 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:28:40,265 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:28:40,579 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:28:40,580 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.94% (Distanza: 0.420)
+2025-11-05 11:30:25,926 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:30:25,927 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:30:26,262 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:30:27,515 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:28,281 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:28,424 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:28,982 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:28,983 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.77% (Distanza: 0.461)
+2025-11-05 11:30:29,536 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:29,590 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:29,648 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:29,649 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.57% (Distanza: 0.492)
+2025-11-05 11:30:29,785 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:29,806 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:30,167 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:30,168 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.04% (Distanza: 0.473)
+2025-11-05 11:30:30,558 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:30,630 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:30,920 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:30,920 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.6% (Distanza: 0.492)
+2025-11-05 11:30:31,057 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:31,238 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:31,430 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:31,430 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.21% (Distanza: 0.454)
+2025-11-05 11:30:31,729 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:31,787 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:32,245 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:32,246 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.46% (Distanza: 0.408)
+2025-11-05 11:30:32,496 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:32,553 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:33,511 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:33,512 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.07% (Distanza: 0.417)
+2025-11-05 11:30:33,983 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:34,026 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:34,633 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:34,634 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.12% (Distanza: 0.416)
+2025-11-05 11:30:34,853 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:34,921 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:35,591 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:35,591 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.22% (Distanza: 0.435)
+2025-11-05 11:30:35,915 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:35,957 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:36,349 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:36,350 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.54% (Distanza: 0.429)
+2025-11-05 11:30:36,609 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:36,756 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:37,157 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:37,157 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.46% (Distanza: 0.430)
+2025-11-05 11:30:37,461 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:37,504 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:37,885 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:37,885 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.0% (Distanza: 0.440)
+2025-11-05 11:30:38,236 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:38,263 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:39,119 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:39,120 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.77% (Distanza: 0.444)
+2025-11-05 11:30:39,648 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:39,709 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:40,517 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:40,518 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.33% (Distanza: 0.433)
+2025-11-05 11:30:40,831 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:40,919 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:41,312 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:41,313 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.71% (Distanza: 0.425)
+2025-11-05 11:30:41,494 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:41,529 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:41,863 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:41,864 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.56% (Distanza: 0.428)
+2025-11-05 11:30:42,014 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:42,079 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:42,262 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:42,289 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.36% (Distanza: 0.432)
+2025-11-05 11:30:43,007 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:43,043 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:43,310 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:43,311 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.07% (Distanza: 0.498)
+2025-11-05 11:30:43,634 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:43,664 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:44,319 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:44,319 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.7% (Distanza: 0.445)
+2025-11-05 11:30:44,921 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:44,984 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:45,381 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:45,382 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.39% (Distanza: 0.451)
+2025-11-05 11:30:45,591 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:45,653 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:46,780 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:46,781 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.33% (Distanza: 0.411)
+2025-11-05 11:30:47,390 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:47,447 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:47,632 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:47,633 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.1% (Distanza: 0.416)
+2025-11-05 11:30:47,816 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:30:47,894 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:30:48,133 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:30:48,133 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.16% (Distanza: 0.389)
+2025-11-05 11:31:55,723 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:31:55,725 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:31:56,008 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:31:57,328 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:31:57,987 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:31:58,012 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:31:58,470 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:31:58,470 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 89.02% (Distanza: 0.520)
+2025-11-05 11:31:58,791 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:31:58,915 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:31:59,791 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:31:59,792 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.32% (Distanza: 0.468)
+2025-11-05 11:31:59,997 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:00,073 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:00,246 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:00,246 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.8% (Distanza: 0.443)
+2025-11-05 11:32:00,421 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:00,463 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:00,622 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:00,623 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.16% (Distanza: 0.471)
+2025-11-05 11:32:01,145 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:01,190 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:01,573 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:01,574 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.87% (Distanza: 0.475)
+2025-11-05 11:32:01,766 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:01,838 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:02,144 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:02,146 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.34% (Distanza: 0.433)
+2025-11-05 11:32:02,474 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:02,566 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:03,112 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:03,112 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.0% (Distanza: 0.439)
+2025-11-05 11:32:03,271 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:03,337 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:04,003 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:04,004 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.22% (Distanza: 0.454)
+2025-11-05 11:32:04,195 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:04,221 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:04,705 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:04,705 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.56% (Distanza: 0.465)
+2025-11-05 11:32:04,868 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:04,919 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:05,190 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:05,191 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.92% (Distanza: 0.441)
+2025-11-05 11:32:05,477 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:05,505 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:05,594 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:05,594 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.02% (Distanza: 0.457)
+2025-11-05 11:32:06,191 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:06,213 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:07,124 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:07,124 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.97% (Distanza: 0.474)
+2025-11-05 11:32:07,383 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:07,445 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:07,757 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:07,758 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.11% (Distanza: 0.456)
+2025-11-05 11:32:07,915 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:08,012 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:08,466 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:08,467 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 90.16% (Distanza: 0.508)
+2025-11-05 11:32:08,732 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:08,746 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:09,246 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:09,247 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.91% (Distanza: 0.441)
+2025-11-05 11:32:09,487 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:09,573 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:10,587 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:10,587 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.96% (Distanza: 0.487)
+2025-11-05 11:32:11,154 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:11,194 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:11,664 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:11,665 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.56% (Distanza: 0.428)
+2025-11-05 11:32:11,773 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:11,786 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:12,539 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:12,539 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.37% (Distanza: 0.410)
+2025-11-05 11:32:13,002 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:13,055 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:13,722 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:13,723 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.27% (Distanza: 0.453)
+2025-11-05 11:32:14,000 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:14,043 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:14,578 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:14,578 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.02% (Distanza: 0.439)
+2025-11-05 11:32:15,126 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:15,241 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:15,711 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:15,711 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.6% (Distanza: 0.427)
+2025-11-05 11:32:15,996 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:16,092 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:16,636 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:16,641 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.07% (Distanza: 0.392)
+2025-11-05 11:32:16,790 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:16,870 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:17,180 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:17,180 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.95% (Distanza: 0.395)
+2025-11-05 11:32:17,363 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:17,421 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:17,780 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:17,780 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 98.14% (Distanza: 0.357)
+2025-11-05 11:32:18,177 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:18,211 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:18,320 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:18,321 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.27% (Distanza: 0.412)
+2025-11-05 11:32:18,493 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:32:18,544 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:32:18,823 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:32:18,823 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.77% (Distanza: 0.400)
+2025-11-05 11:34:14,055 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:34:14,055 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:34:14,307 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:34:15,551 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:16,069 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:16,114 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:16,392 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:16,393 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.96% (Distanza: 0.420)
+2025-11-05 11:34:16,870 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:16,928 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:17,539 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:17,560 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.87% (Distanza: 0.421)
+2025-11-05 11:34:17,738 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:17,790 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:18,017 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:18,017 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.89% (Distanza: 0.421)
+2025-11-05 11:34:18,251 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:18,278 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:18,926 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:18,926 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.45% (Distanza: 0.380)
+2025-11-05 11:34:19,025 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:19,093 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:19,649 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:19,649 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.81% (Distanza: 0.423)
+2025-11-05 11:34:19,805 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:19,917 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:20,453 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:20,453 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.82% (Distanza: 0.369)
+2025-11-05 11:34:20,664 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:20,705 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:21,290 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:21,292 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.52% (Distanza: 0.378)
+2025-11-05 11:34:21,588 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:21,613 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:22,631 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:22,631 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.56% (Distanza: 0.405)
+2025-11-05 11:34:22,809 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:22,864 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:23,033 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:23,036 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.35% (Distanza: 0.383)
+2025-11-05 11:34:23,209 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:23,291 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:23,949 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:23,950 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.38% (Distanza: 0.382)
+2025-11-05 11:34:24,104 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:24,130 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:24,328 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:24,328 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.8% (Distanza: 0.369)
+2025-11-05 11:34:24,894 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:24,938 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:25,728 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:25,728 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 98.49% (Distanza: 0.343)
+2025-11-05 11:34:25,945 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:26,000 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:26,460 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:26,460 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 98.44% (Distanza: 0.345)
+2025-11-05 11:34:26,678 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:26,706 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:27,066 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:27,066 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.99% (Distanza: 0.419)
+2025-11-05 11:34:27,138 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:27,160 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:27,523 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:27,524 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.17% (Distanza: 0.389)
+2025-11-05 11:34:27,662 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:27,726 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:28,335 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:28,335 - FR-ACCURACY-UNKNOWN: Nuova faccia 0 (potenzialmente sconosciuta) rilevata.
+2025-11-05 11:34:28,573 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:28,606 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:29,333 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:29,334 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.36% (Distanza: 0.451)
+2025-11-05 11:34:29,545 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:29,650 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:30,115 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:30,115 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.2% (Distanza: 0.414)
+2025-11-05 11:34:30,354 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:30,409 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:30,512 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:30,512 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.02% (Distanza: 0.457)
+2025-11-05 11:34:31,052 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:31,111 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:31,729 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:31,729 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.49% (Distanza: 0.449)
+2025-11-05 11:34:31,827 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:31,876 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:32,898 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:32,898 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.34% (Distanza: 0.384)
+2025-11-05 11:34:33,119 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:33,138 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:33,521 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:33,521 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.88% (Distanza: 0.421)
+2025-11-05 11:34:33,611 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:33,653 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:33,784 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:33,784 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.76% (Distanza: 0.400)
+2025-11-05 11:34:34,462 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:34,524 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:34,819 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:34,820 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.5% (Distanza: 0.407)
+2025-11-05 11:34:35,039 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:35,068 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:35,543 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:35,544 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.3% (Distanza: 0.412)
+2025-11-05 11:34:35,739 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:35,790 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:36,131 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:36,131 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.97% (Distanza: 0.419)
+2025-11-05 11:34:36,304 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:34:36,352 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:34:37,007 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:34:37,008 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.25% (Distanza: 0.413)
+2025-11-05 11:37:11,333 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:37:11,333 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:37:11,531 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:37:12,719 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:13,333 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:13,396 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:13,660 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:13,661 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.24% (Distanza: 0.484)
+2025-11-05 11:37:13,860 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:13,912 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:14,448 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:14,450 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.71% (Distanza: 0.445)
+2025-11-05 11:37:14,793 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:14,846 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:15,198 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:15,198 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.68% (Distanza: 0.402)
+2025-11-05 11:37:15,453 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:15,500 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:15,779 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:15,779 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.58% (Distanza: 0.376)
+2025-11-05 11:37:16,113 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:16,151 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:16,811 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:16,811 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.96% (Distanza: 0.458)
+2025-11-05 11:37:16,993 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:17,056 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:17,479 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:17,480 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.86% (Distanza: 0.442)
+2025-11-05 11:37:17,739 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:17,795 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:18,100 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:18,101 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.42% (Distanza: 0.431)
+2025-11-05 11:37:18,263 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:18,388 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:19,298 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:19,298 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 86.35% (Distanza: 0.542)
+2025-11-05 11:37:19,641 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:19,719 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:20,052 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:20,052 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.26% (Distanza: 0.453)
+2025-11-05 11:37:20,376 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:20,428 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:20,987 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:20,988 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.26% (Distanza: 0.435)
+2025-11-05 11:37:21,197 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:21,259 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:21,490 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:21,490 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 89.46% (Distanza: 0.516)
+2025-11-05 11:37:21,788 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:21,806 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:22,601 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:22,602 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.66% (Distanza: 0.426)
+2025-11-05 11:37:22,838 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:22,868 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:23,569 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:23,570 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.58% (Distanza: 0.479)
+2025-11-05 11:37:23,788 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:23,841 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:24,446 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:24,446 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.99% (Distanza: 0.458)
+2025-11-05 11:37:24,486 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:24,513 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:25,133 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:25,134 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 86.95% (Distanza: 0.537)
+2025-11-05 11:37:25,387 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:25,525 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:25,787 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:25,788 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 87.83% (Distanza: 0.530)
+2025-11-05 11:37:25,928 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:25,977 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:26,378 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:26,379 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.22% (Distanza: 0.454)
+2025-11-05 11:37:26,503 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:26,525 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:28,106 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:28,107 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 84.97% (Distanza: 0.551)
+2025-11-05 11:37:28,315 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:28,352 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:28,929 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:28,929 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.55% (Distanza: 0.428)
+2025-11-05 11:37:29,236 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:29,273 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:29,685 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:29,686 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 83.99% (Distanza: 0.557)
+2025-11-05 11:37:29,855 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:29,899 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:30,976 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:30,976 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.47% (Distanza: 0.430)
+2025-11-05 11:37:31,249 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:31,285 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:32,263 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:32,264 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.55% (Distanza: 0.480)
+2025-11-05 11:37:32,511 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:32,554 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:32,814 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:32,849 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.09% (Distanza: 0.456)
+2025-11-05 11:37:33,218 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:33,275 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:33,848 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:33,848 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.16% (Distanza: 0.436)
+2025-11-05 11:37:34,049 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:34,087 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:34,906 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:34,907 - FR-ACCURACY-UNKNOWN: Nuova faccia 0 (potenzialmente sconosciuta) rilevata.
+2025-11-05 11:37:35,185 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:37:35,219 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:37:35,781 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:37:35,781 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.72% (Distanza: 0.425)
+2025-11-05 11:50:09,055 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:50:09,072 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:50:09,807 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:50:12,702 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:13,462 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:13,621 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:14,974 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:14,984 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.81% (Distanza: 0.369)
+2025-11-05 11:50:15,325 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:15,352 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:16,234 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:16,237 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.54% (Distanza: 0.429)
+2025-11-05 11:50:16,353 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:16,508 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:18,263 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:18,264 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 98.25% (Distanza: 0.353)
+2025-11-05 11:50:18,834 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:18,868 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:19,197 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:19,198 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.3% (Distanza: 0.385)
+2025-11-05 11:50:19,553 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:19,591 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:19,824 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:19,824 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.4% (Distanza: 0.409)
+2025-11-05 11:50:20,040 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:20,065 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:20,489 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:20,489 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.03% (Distanza: 0.439)
+2025-11-05 11:50:20,701 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:20,862 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:22,358 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:22,359 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.84% (Distanza: 0.443)
+2025-11-05 11:50:22,816 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:22,879 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:23,340 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:23,341 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.97% (Distanza: 0.395)
+2025-11-05 11:50:23,962 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:50:23,963 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:50:24,112 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:50:25,994 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:26,063 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:50:26,063 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:50:26,628 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:26,664 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:27,172 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:27,177 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.84% (Distanza: 0.422)
+2025-11-05 11:50:27,397 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:27,506 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:27,929 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:27,929 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.98% (Distanza: 0.440)
+2025-11-05 11:50:28,053 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:28,125 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:28,657 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:28,658 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.86% (Distanza: 0.422)
+2025-11-05 11:50:28,870 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:28,930 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:29,914 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:29,915 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.69% (Distanza: 0.373)
+2025-11-05 11:50:30,047 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:30,095 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:30,899 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:30,899 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.38% (Distanza: 0.383)
+2025-11-05 11:50:31,069 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:31,159 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:32,401 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:32,401 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.09% (Distanza: 0.391)
+2025-11-05 11:50:32,782 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:32,852 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:33,176 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:33,176 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.77% (Distanza: 0.400)
+2025-11-05 11:50:33,699 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:33,796 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:34,388 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:34,388 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.7% (Distanza: 0.425)
+2025-11-05 11:50:34,592 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:34,629 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:34,710 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:34,711 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.31% (Distanza: 0.385)
+2025-11-05 11:50:35,253 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:35,302 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:35,949 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:35,949 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.05% (Distanza: 0.417)
+2025-11-05 11:50:36,201 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:36,289 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:36,978 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:36,979 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.86% (Distanza: 0.442)
+2025-11-05 11:50:37,245 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:37,318 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:37,547 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:37,548 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.94% (Distanza: 0.420)
+2025-11-05 11:50:37,755 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:37,831 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:38,677 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:38,677 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.92% (Distanza: 0.441)
+2025-11-05 11:50:39,064 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:39,096 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:40,531 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:40,536 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.26% (Distanza: 0.386)
+2025-11-05 11:50:40,750 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:40,830 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:41,303 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:41,304 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.66% (Distanza: 0.426)
+2025-11-05 11:50:41,725 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:41,832 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:42,337 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:42,338 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.03% (Distanza: 0.393)
+2025-11-05 11:50:42,619 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:42,667 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:43,208 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:43,208 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 98.53% (Distanza: 0.341)
+2025-11-05 11:50:43,447 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:43,458 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:43,991 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:43,992 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.04% (Distanza: 0.392)
+2025-11-05 11:50:44,218 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:50:44,256 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:50:44,594 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:50:44,594 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.34% (Distanza: 0.384)
+2025-11-05 11:52:35,666 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:52:35,668 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:52:35,953 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:52:37,986 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:38,649 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:38,692 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:40,750 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:40,750 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.93% (Distanza: 0.396)
+2025-11-05 11:52:40,853 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:40,897 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:41,683 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:41,684 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.97% (Distanza: 0.363)
+2025-11-05 11:52:41,899 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:41,979 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:43,011 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:43,012 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.98% (Distanza: 0.487)
+2025-11-05 11:52:43,271 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:43,402 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:52:43,405 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:52:43,691 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:43,784 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:45,121 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:45,122 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 83.47% (Distanza: 0.560)
+2025-11-05 11:52:45,381 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:45,469 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:45,899 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:45,899 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.74% (Distanza: 0.424)
+2025-11-05 11:52:46,279 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:46,330 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:46,873 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:46,873 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.42% (Distanza: 0.450)
+2025-11-05 11:52:47,004 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:47,064 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:47,438 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:47,438 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 97.25% (Distanza: 0.387)
+2025-11-05 11:52:47,699 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:47,796 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:48,801 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:48,803 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.15% (Distanza: 0.415)
+2025-11-05 11:52:48,995 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:49,055 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:49,893 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:49,894 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.37% (Distanza: 0.482)
+2025-11-05 11:52:50,170 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:50,227 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:50,886 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:50,886 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 96.05% (Distanza: 0.418)
+2025-11-05 11:52:51,100 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:51,143 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:51,605 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:51,606 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 89.76% (Distanza: 0.513)
+2025-11-05 11:52:51,794 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:51,872 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:52,225 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:52,226 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.34% (Distanza: 0.495)
+2025-11-05 11:52:52,534 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:52,633 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:54,062 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:54,063 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.13% (Distanza: 0.498)
+2025-11-05 11:52:54,380 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:54,478 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:52:54,479 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:52:54,770 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:54,876 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:55,787 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:55,788 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.63% (Distanza: 0.427)
+2025-11-05 11:52:56,123 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:56,208 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:56,991 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:56,992 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.75% (Distanza: 0.424)
+2025-11-05 11:52:57,390 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:57,426 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:58,348 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:58,348 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.3% (Distanza: 0.434)
+2025-11-05 11:52:58,731 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:58,810 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:52:59,021 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:52:59,022 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.8% (Distanza: 0.423)
+2025-11-05 11:52:59,264 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:52:59,299 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:52:59,308 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:52:59,962 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:53:00,004 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:53:00,752 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:53:00,753 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.02% (Distanza: 0.439)
+2025-11-05 11:55:51,018 - FR-SERVER: Ricevuta azione: init_face_recognition
+2025-11-05 11:55:51,018 - FR-SETUP: Inizio codifica facce note...
+2025-11-05 11:55:51,142 - FR-SETUP: Codifica completata. Caricate 1 facce.
+2025-11-05 11:55:52,632 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:55:53,111 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:55:53,129 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:55:53,129 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:55:53,727 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:55:53,820 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:55:53,820 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:55:54,369 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:55:54,491 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:55:55,546 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:55:55,547 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.14% (Distanza: 0.485)
+2025-11-05 11:55:55,894 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:55:55,998 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:55:56,623 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:55:56,624 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.86% (Distanza: 0.460)
+2025-11-05 11:55:56,903 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:55:57,027 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:55:57,396 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:55:57,396 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.89% (Distanza: 0.488)
+2025-11-05 11:55:57,950 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:55:58,015 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:55:58,562 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:55:58,562 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.17% (Distanza: 0.471)
+2025-11-05 11:55:58,915 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:55:58,954 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:00,116 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:00,116 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 86.11% (Distanza: 0.543)
+2025-11-05 11:56:00,346 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:00,398 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:00,970 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:00,971 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.25% (Distanza: 0.484)
+2025-11-05 11:56:01,136 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:01,184 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:02,329 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:02,330 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 95.53% (Distanza: 0.429)
+2025-11-05 11:56:02,542 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:02,600 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:02,997 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:02,999 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.33% (Distanza: 0.452)
+2025-11-05 11:56:03,176 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:03,263 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:03,879 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:03,880 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 94.36% (Distanza: 0.451)
+2025-11-05 11:56:04,316 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:04,368 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:04,943 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:04,944 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.24% (Distanza: 0.469)
+2025-11-05 11:56:05,169 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:05,297 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:06,136 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:06,137 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.31% (Distanza: 0.495)
+2025-11-05 11:56:06,488 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:06,596 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:07,096 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:07,097 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 91.42% (Distanza: 0.494)
+2025-11-05 11:56:07,388 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:07,431 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:56:07,432 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:56:07,938 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:08,002 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:56:08,002 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:56:08,637 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:08,696 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:09,802 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:09,802 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 93.2% (Distanza: 0.470)
+2025-11-05 11:56:10,356 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:10,469 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:11,503 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:11,511 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.62% (Distanza: 0.478)
+2025-11-05 11:56:11,858 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:11,957 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:12,604 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:12,604 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 90.4% (Distanza: 0.506)
+2025-11-05 11:56:13,249 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:13,346 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:56:13,346 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:56:13,474 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:13,553 - FR-PERFORMANCE-LOC: Trovate 0 facce.
+2025-11-05 11:56:13,554 - FR-PERFORMANCE-ENC: Codificate 0 facce.
+2025-11-05 11:56:14,151 - FR-SERVER: Ricevuta azione: run_recognition_frame
+2025-11-05 11:56:14,250 - FR-PERFORMANCE-LOC: Trovate 1 facce.
+2025-11-05 11:56:14,792 - FR-PERFORMANCE-ENC: Codificate 1 facce.
+2025-11-05 11:56:14,793 - FR-ACCURACY-KNOWN: Rilevato 'Maya' con confidenza 92.57% (Distanza: 0.479)

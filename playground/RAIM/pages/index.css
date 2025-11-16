@@ -1,0 +1,284 @@
+:root {
+  --primary-color: #3A7D44; /* verde scuro pharma per accenti */
+  --accent-color: #5A9BD8;  /* azzurro calmo */
+  --bg-color: #DFF7E1;      /* verdino chiaro farmacia */
+  --text-color: #000000;    /* testo nero leggibile */
+  --title-color: #FFFFFF;   /* titolo bianco */
+  --shadow-color: rgba(0, 0, 0, 0.1);
+  --border-radius: 16px;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  user-select: none;
+}
+
+/* Logo Pepper in alto a sinistra più grande */
+#logo_product_container {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background-color: white;
+  padding: 15px 20px;
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 12px var(--shadow-color);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  max-width: 240px;
+  transition: box-shadow 0.3s ease;
+  cursor: default;
+  z-index: 1000;
+}
+
+#logo_product_container:hover {
+  box-shadow: 0 6px 20px var(--shadow-color);
+}
+
+.pepper_feeedback {
+  width: 72px !important;
+  height: auto;
+  filter: none;
+  border-radius: 12px;
+  border: 2px solid var(--primary-color);
+}
+
+/* Titolo bianco con contorni sfumati */
+header {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--title-color);
+  margin-bottom: 30px;
+  letter-spacing: 0.12em;
+  text-align: center;
+  width: 90%;
+  max-width: 900px;
+  user-select: none;
+  text-shadow:
+    0 0 5px rgba(255, 255, 255, 0.7),
+    0 0 10px rgba(255, 255, 255, 0.6),
+    0 0 20px rgba(255, 255, 255, 0.5),
+    0 0 30px rgba(58, 125, 68, 0.8);
+}
+
+/* Scritte nere per alta leggibilità */
+.text_m {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+  color: var(--text-color);
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+  line-height: 1.6;
+  user-select: none;
+  padding: 0 15px;
+  max-width: 850px;
+}
+
+#product_image_container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 200px;
+  height: auto;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  border-radius: var(--border-radius);
+  transition: box-shadow 0.3s ease;
+  cursor: default;
+  z-index: 1000;
+}
+
+#product_image_container:hover {
+  box-shadow: 0 10px 26px rgba(0,0,0,0.22);
+}
+
+.product-image {
+  width: 100%;
+  border-radius: var(--border-radius);
+  object-fit: contain;
+  border: 2px solid var(--accent-color);
+}
+
+/* Select dropdown rivisto */
+select {
+  background-color: #fff;
+  border: 1.5px solid var(--primary-color);
+  border-radius: var(--border-radius);
+  color: var(--primary-color);
+  padding: 12px 20px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  appearance: none;
+  max-width: 280px;
+}
+
+select:hover {
+  background-color: var(--accent-color);
+  color: #fff;
+  border-color: var(--accent-color);
+}
+
+select option {
+  background-color: #fff;
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+select:focus {
+  background-color: var(--accent-color);
+  color: #fff;
+  border-color: var(--accent-color);
+}
+
+/* Mic container e animazioni */
+.mic-container {
+  display: flex;
+  justify-content: center;
+  margin: 25px 0;
+  position: relative;
+}
+
+.mic-outline {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 8px solid var(--primary-color);
+  animation: pulse 2s infinite ease-in-out;
+  position: absolute;
+  top: -10px;
+  left: calc(50% - 20px);
+  opacity: 0.25;
+  pointer-events: none;
+}
+
+.mic {
+  width: 22px;
+  height: 20px;
+  border-bottom-left-radius: 140px;
+  border-bottom-right-radius: 140px;
+  border: 4px solid var(--primary-color);
+  border-top: none;
+  margin-top: 8px;
+  position: relative;
+  left: 0;
+  cursor: pointer;
+  z-index: 2;
+  background: transparent;
+  transition: border-color 0.3s ease;
+}
+
+.mic:hover {
+  border-color: var(--accent-color);
+}
+
+.mic::after,
+.mic::before {
+  content: "";
+  position: absolute;
+  display: block;
+  box-sizing: border-box;
+}
+
+.mic::after {
+  border: 4px solid var(--primary-color);
+  width: 12px;
+  height: 26px;
+  left: 5px;
+  top: -14px;
+  border-radius: 6px;
+}
+
+.mic::before {
+  width: 14px;
+  height: 8px;
+  top: 20px;
+  left: 4px;
+  border-right: 6px solid transparent;
+  box-shadow: 0 4px 0, inset -4px 0 0;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(0.9);
+    opacity: 0.5;
+    border-width: 8px;
+  }
+  50% {
+    border-color: var(--accent-color);
+    opacity: 0.15;
+    border-width: 8px;
+  }
+  100% {
+    transform: scale(1.3);
+    opacity: 0;
+    border-width: 0;
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  header {
+    font-size: 2.3rem;
+    margin-bottom: 20px;
+  }
+  .text_m {
+    font-size: 1.2rem;
+    width: 80%;
+  }
+  #logo_product_container {
+    max-width: 180px;
+    padding: 12px 16px;
+    gap: 10px;
+  }
+  #product_image_container {
+    width: 90px;
+    bottom: 15px;
+    right: 15px;
+  }
+  .pepper_feeedback {
+    width: 56px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  header {
+    font-size: 1.6rem;
+  }
+  .text_m {
+    font-size: 1rem;
+    width: 95%;
+  }
+  #logo_product_container {
+    max-width: 140px;
+    padding: 10px 12px;
+  }
+  #product_image_container {
+    width: 70px;
+    bottom: 10px;
+    right: 10px;
+  }
+  .pepper_feeedback {
+    width: 44px !important;
+  }
+
+
+}
+
+
+
+
